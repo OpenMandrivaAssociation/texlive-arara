@@ -6,7 +6,7 @@
 # catalog-version 3.0
 Name:		texlive-arara
 Version:	3.0
-Release:	5
+Release:	6
 Summary:	Automation of LaTeX compilation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/support/arara
