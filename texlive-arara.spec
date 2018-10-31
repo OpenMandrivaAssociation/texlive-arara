@@ -1,6 +1,6 @@
 Name:		texlive-arara
 Version:	4.0.3
-Release:	1
+Release:	2
 Summary:	Automation of LaTeX compilation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/support/arara
