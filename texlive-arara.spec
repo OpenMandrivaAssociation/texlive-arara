@@ -5,9 +5,9 @@ Summary:	Automation of LaTeX compilation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/support/arara
 License:	BSD
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arara.r63760.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arara.doc.r63760.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arara.source.r63760.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arara.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arara.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arara.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
