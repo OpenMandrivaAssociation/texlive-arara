@@ -1,5 +1,5 @@
 Name:		texlive-arara
-Version:	69878
+Version:	71205
 Release:	1
 Summary:	Automation of LaTeX compilation
 Group:		Publishing
