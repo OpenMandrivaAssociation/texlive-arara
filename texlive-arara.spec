@@ -3,7 +3,7 @@ Version:	71205
 Release:	1
 Summary:	Automation of LaTeX compilation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/support/arara
+URL:		https://www.ctan.org/tex-archive/support/arara
 License:	BSD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arara.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arara.doc.r%{version}.tar.xz
